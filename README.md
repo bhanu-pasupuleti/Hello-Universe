@@ -1,2 +1,3 @@
 # Hello-Universe
-Play area for myself to browse around
+
+This is ito do some basic testing before jumping in the pool.
